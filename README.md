@@ -15,7 +15,10 @@ stuff i work with currently:
 
 stuff i would like to explore:
 
-<img title="Rust" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /><img title="Elixir" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /><img title="haskell" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /><img title="Lua" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /><img title="NixOS" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /><img title="Scala" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
+
+
+<img title="Rust" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /><img title="Elixir" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /><img title="haskell" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /><img title="Lua" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /><img title="NixOS" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" /><img title="Scala" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
 
 
 
